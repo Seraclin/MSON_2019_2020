@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FastCollinearPointsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-02-23T23:22:48" hostname="LAPTOP-5NNBCI8K" time="0.107">
+  <properties/>
+  <testcase name="testNull" classname="FastCollinearPointsTest" time="0.02"/>
+  <testcase name="testNumberOfSegments" classname="FastCollinearPointsTest" time="0.004"/>
+  <testcase name="testRepeat" classname="FastCollinearPointsTest" time="0.006"/>
+  <testcase name="testSegments" classname="FastCollinearPointsTest" time="0.077"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

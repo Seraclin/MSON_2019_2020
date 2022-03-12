@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="grocery-simulator-student.main" target="11" />
+      <module name="grocery-simulator-student.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

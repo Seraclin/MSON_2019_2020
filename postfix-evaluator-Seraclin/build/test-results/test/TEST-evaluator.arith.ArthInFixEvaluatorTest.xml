@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="evaluator.arith.ArthInFixEvaluatorTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2019-10-14T02:12:42" hostname="LAPTOP-5NNBCI8K" time="0.172">
+  <properties/>
+  <testcase name="testInvalidExpressionEmpty" classname="evaluator.arith.ArthInFixEvaluatorTest" time="0.052"/>
+  <testcase name="testInvalidExpressionOperators" classname="evaluator.arith.ArthInFixEvaluatorTest" time="0.011"/>
+  <testcase name="testEvaluateNegate" classname="evaluator.arith.ArthInFixEvaluatorTest" time="0.017"/>
+  <testcase name="testInvalidExpressionOperatorsOperands" classname="evaluator.arith.ArthInFixEvaluatorTest" time="0.002"/>
+  <testcase name="testEvaluateAll" classname="evaluator.arith.ArthInFixEvaluatorTest" time="0.004"/>
+  <testcase name="testEvaluateDiv" classname="evaluator.arith.ArthInFixEvaluatorTest" time="0.011"/>
+  <testcase name="testEvaluateSub" classname="evaluator.arith.ArthInFixEvaluatorTest" time="0.007"/>
+  <testcase name="testEvaluateExponent" classname="evaluator.arith.ArthInFixEvaluatorTest" time="0.009"/>
+  <testcase name="testEvaluateMult" classname="evaluator.arith.ArthInFixEvaluatorTest" time="0.006"/>
+  <testcase name="testEvaluatePlus" classname="evaluator.arith.ArthInFixEvaluatorTest" time="0.004"/>
+  <testcase name="testEvaluateParenthesis" classname="evaluator.arith.ArthInFixEvaluatorTest" time="0.036"/>
+  <testcase name="testInvalidExpression" classname="evaluator.arith.ArthInFixEvaluatorTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

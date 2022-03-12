@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="KdTreeTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-04-03T02:48:37" hostname="LAPTOP-5NNBCI8K" time="0.038">
+  <properties/>
+  <testcase name="testRange" classname="KdTreeTest" time="0.014"/>
+  <testcase name="testSize" classname="KdTreeTest" time="0.001"/>
+  <testcase name="testContains" classname="KdTreeTest" time="0.0"/>
+  <testcase name="testNearestNull" classname="KdTreeTest" time="0.001"/>
+  <testcase name="testNearest" classname="KdTreeTest" time="0.005"/>
+  <testcase name="testInsert" classname="KdTreeTest" time="0.001"/>
+  <testcase name="testIsEmpty" classname="KdTreeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
